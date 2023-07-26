@@ -2,3 +2,8 @@ hello guys, if you are reading this, you have a lot of patience.
 Actually I dk what to do with Github
 I also dk what are repositories...
 Can someone explain?
+
+Hello haridevcodes, I am 8thcoder and I am glad I was ahving the patience to reach ere lol.
+So answering your questions, what is github? Its just a place where developers interact with each other and help out each other like I am doing right now. You can continuosly work on your project and other devs can come and spot errors or help you.
+Repository is the file in which your current project is saved. For exapmple Zen is your repository where you have 2 files.
+I hope you understand and yeah, WELCOME TO GITHUB :)
